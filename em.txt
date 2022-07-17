@@ -1,0 +1,68 @@
+Dear Nyambayar,
+
+Thank you for your interest in Camunda! 
+
+You are now entitled to download and evaluate the Camunda Enterprise Platform until 2022-08-16.
+
+Below you will find instructions for evaluating 
+
+* The Runtime Platform (Engines, Tasklist, Admin, Cockpit)
+* Optimize
+* Cawemo
+
+Use your credentials to get access to the download area:
+
+Username: trial_nyambayar_kh_gmail_com
+Password: c4b58080-c284-468c-8
+
+Your license key:
+
+--------------- BEGIN CAMUNDA LICENSE KEY --------------- KB4M2wbbdAXwnbdsDluNs1zdmb9lzCXN9DFBH9kzNjartx4ko7cemxylt
+bKXz0FYCUDvL9XCGHClbEKvkwbo5ttqNjvkRp3tlspYlDwAKCjOa3kFSu
+EcLk4cZgvbbb/t13V+EfFHxqDqCRkYHJHJYwHtCtQgQ1nR6RWJbbz3Lf5
+yYyJoypSKbYYwEJNnA1W71kZG+CeSP6ityi8UP34/9NuEYigLrApx7a/J
+Q7hPxrCB8rAylti5+Z6nRL8y7G28a9g86mz0Va0Fa9MV+sxQBcwprex1p
+FMj2+ak03+liwbQnFT6pbUCKUpglJlDAltFc/Oadd1hS5zLLIC8xmuKAO
+rWBjt34XleQ0Gp9SU+ZtpylZJuWfPp833zovw5+OYO7taurWU2ER0NrhH
+wFnpjAt56q18A2LF5BVXOfjvu7mNKoPovYf//mqid4CViGGditQUBhxnT
+tG/4dpY0ZSs+g6nfcK7ZqHxgGZMae4Qb7isiDuN1oxuTCwJpHoVQpTSJk
+r1L3qPpaEZWVOjnjGfIVkyZex8W9IsFbLTaAKINV0dIjn56LU6kvxi5Ga
+qFAuR1HPN6fCYQutArPBoTMM9pjSsNIJp3Q1kWpd6/o4nerdWuP9dp9lR
+GVaqpL7kx40wvy8TuhwZ/VqWtYkYJpujCckVWF81UKSgynGYep1t9FBo=;
+customer = golomtbank;
+expiryDate = 2022-08-16;
+cawemo = true;
+optimize = true;
+camundaBPM = true;
+---------------  END CAMUNDA LICENSE KEY  ---------------
+
+# Runtime Platform (Engines, Tasklist, Admin, Cockpit)
+
+Download: https://docs.camunda.org/enterprise/download/
+
+Maven Coordinates for Development:
+https://docs.camunda.org/get-started/apache-maven/#enterprise-edition
+
+To unlock the Enterprise Feature Set of Camunda Cockpit, please enter your license key. Once you have started up Camunda on your localhost, you can enter the key here: http://localhost:8080/camunda/app/admin/default/#/system?section=system-settings-license 
+
+How to get started with Camunda: https://docs.camunda.org/get-started/bpmn20/
+
+# Optimize
+
+Download: https://docs.camunda.org/enterprise/download/#camunda-optimize
+
+To unlock Optimize, please enter your license key in the login screen: http://localhost:8090 Follow the instructions in the installation guide: https://docs.camunda.org/optimize/technical-guide/installation/ 
+
+# Cawemo
+
+Follow the instructions in the installation guide: https://docs.camunda.org/cawemo/latest/technical-guide/installation/
+
+
+If you have any questions, please contact us: https://camunda.com/contact/
+
+Thank you and best regards,
+
+Camunda
+
+
+"IMPORTANT-READ CAREFULLY. IF YOU DOWNLOAD THE SOFTWARE FROM CAMUNDA'S DOWNLOAD PAGE, YOU AGREE AND ACCEPT THE LEGAL TERMS AND CONDITIONS FOR THE TRIAL VERSION OF THE SOFTWARE ("THE SOFTWARE EVALUATION AGREEMENT"). YOU CAN FIND THE TERMS HERE: https://camunda.com/legal/terms/trial/ DO NOT DOWNLOAD THE SOFTWARE UNLESS (1) YOU ARE AUTHORIZED TO ACCEPT AND AGREE TO THE SOFTWARE EVALUATION AGREEMENT TERMS AND (2) YOU INTEND TO ENTER INTO AND TO BE BOUND BY THE TERMS OF THE SOFTWARE EVALUATION AGREEMENT. IF YOU DOWNLOAD THE SOFTWARE, YOU WILL BE GRANTED ACCESS TO THE SOFTWARE, AND THE SOFTWARE EVALUATION AGREEMENT WILL BE EFFECTIVE IMMEDIATELY."
